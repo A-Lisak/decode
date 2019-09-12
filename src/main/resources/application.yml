@@ -1,0 +1,21 @@
+---
+spring:
+  application:
+    name: anpr
+
+anprdecodes:
+  function: decodes
+  ref: 0
+
+decodes:
+  host: localhost:8081
+  path: /ANPRMon/
+
+feign:
+  hystrix:
+    enabled: ${HYSTRIX_ENABLED:false}
+  client:
+    config:
+      openfeign:
+        loggerLevel: full
+        error-decoder: com.decode.anpr.client.CustomErrorDecoder

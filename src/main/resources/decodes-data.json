@@ -1,0 +1,524 @@
+{
+  "decodes": [
+    {
+      "safid": "gdjagxvxbj657hd",
+      "ref": 43987,
+      "vrm": "AV11LPR",
+      "frameID": 12029991,
+      "spacedVRM": "AV11 LPR",
+      "seenCount": 18,
+      "serialNo": 2568084344,
+      "MAC": "00:04:A3:4F:0D:79",
+      "cameraName": "Test_MAV_IQ",
+      "decodeID": 44606,
+      "charHeight": 15,
+      "location": {
+        "latitude": 0.00000000,
+        "longitude": 0.00000000,
+        "name": "",
+        "source": 0
+      },
+      "repeatedPlate": false,
+      "timeStamp": {
+        "Time": 1473670749,
+        "ms": 640,
+        "LocalTime": 1473677949
+      },
+      "timeSync": {
+        "timeMode": 0,
+        "lastSyncTime": 1473062065,
+        "lastSyncSource": "SNTP",
+        "lastSyncInfo": "192.53.103.108"
+      },
+      "confidence": 94,
+      "correctSpacing": true,
+      "countryCode": "UK",
+      "preferredCountry": true,
+      "preferredFormat": true,
+      "syntax": "1994-",
+      "direction": 126,
+      "motion": "towards",
+      "laneInfo": {
+        "ID": 1
+      },
+      "accessoryStatus": {
+        "12VOut": false,
+        "relayOut": false,
+        "input": true,
+        "12VSense": false
+      },
+      "frameTimeRef": 606284767,
+      "nightModeActive": false,
+      "frameHeight": 720,
+      "frameWidth": 1280,
+      "plateRect": {
+        "left": 401,
+        "top": 346,
+        "right": 520,
+        "bottom": 372
+      },
+      "zoomLocked": true,
+      "overviewSource": 2,
+      "overviewScale": 2,
+      "overviewRect": {
+        "left": 84,
+        "top": 0,
+        "right": 804,
+        "bottom": 576
+      },
+      "overviewPlateRect": {
+        "left": 300,
+        "top": 338,
+        "right": 420,
+        "bottom": 364
+      },
+      "plateTrack": [
+        {
+          "charHeight": 13,
+          "frameID": 12029973,
+          "platePos": {
+            "x": 275,
+            "y": 224
+          },
+          "plateWidth": 69
+        }
+      ],
+      "rawReads": [
+        {
+          "vrm": "AV11LPR",
+          "spacedVRM": "AV11 LPR"
+        }
+      ],
+      "speed": {
+        "radarSpeed": 0,
+        "radarSpeedUnits": "NoSpeed",
+        "radarRawSpeeds": [
+          {
+            "frameID": 12029973,
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      "radarDiags": "",
+      "plate": "xxxxxxxxxx",
+      "overview": "xxxxxxxxxx"
+    },
+    {
+      "safid": "gdjagxvxbj657hd",
+      "ref": 43990,
+      "vrm": "AV11LPR",
+      "frameID": 12029991,
+      "spacedVRM": "AV11 LPR",
+      "seenCount": 18,
+      "serialNo": 2568084344,
+      "MAC": "00:04:A3:4F:0D:79",
+      "cameraName": "Test_MAV_IQ",
+      "decodeID": 44606,
+      "charHeight": 15,
+      "location": {
+        "latitude": 0.00000000,
+        "longitude": 0.00000000,
+        "name": "",
+        "source": 0
+      },
+      "repeatedPlate": false,
+      "timeStamp": {
+        "Time": 1473670749,
+        "ms": 640,
+        "LocalTime": 1473677949
+      },
+      "timeSync": {
+        "timeMode": 0,
+        "lastSyncTime": 1473062065,
+        "lastSyncSource": "SNTP",
+        "lastSyncInfo": "192.53.103.108"
+      },
+      "confidence": 94,
+      "correctSpacing": true,
+      "countryCode": "UK",
+      "preferredCountry": true,
+      "preferredFormat": true,
+      "syntax": "1994-",
+      "direction": 126,
+      "motion": "towards",
+      "laneInfo": {
+        "ID": 1
+      },
+      "accessoryStatus": {
+        "12VOut": false,
+        "relayOut": false,
+        "input": true,
+        "12VSense": false
+      },
+      "frameTimeRef": 606284767,
+      "nightModeActive": false,
+      "frameHeight": 720,
+      "frameWidth": 1280,
+      "plateRect": {
+        "left": 401,
+        "top": 346,
+        "right": 520,
+        "bottom": 372
+      },
+      "zoomLocked": true,
+      "overviewSource": 2,
+      "overviewScale": 2,
+      "overviewRect": {
+        "left": 84,
+        "top": 0,
+        "right": 804,
+        "bottom": 576
+      },
+      "overviewPlateRect": {
+        "left": 300,
+        "top": 338,
+        "right": 420,
+        "bottom": 364
+      },
+      "plateTrack": [
+        {
+          "charHeight": 13,
+          "frameID": 12029973,
+          "platePos": {
+            "x": 275,
+            "y": 224
+          },
+          "plateWidth": 69
+        }
+      ],
+      "rawReads": [
+        {
+          "vrm": "AV11LPR",
+          "spacedVRM": "AV11 LPR"
+        }
+      ],
+      "speed": {
+        "radarSpeed": 0,
+        "radarSpeedUnits": "NoSpeed",
+        "radarRawSpeeds": [
+          {
+            "frameID": 12029973,
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      "radarDiags": "",
+      "plate": "xxxxxxxxxx",
+      "overview": "xxxxxxxxxx"
+    },
+    {
+      "safid": "gdjagxvxbj657hd",
+      "ref": 43991,
+      "vrm": "AV11LPR",
+      "frameID": 12029991,
+      "spacedVRM": "AV11 LPR",
+      "seenCount": 18,
+      "serialNo": 2568084344,
+      "MAC": "00:04:A3:4F:0D:79",
+      "cameraName": "Test_MAV_IQ",
+      "decodeID": 44606,
+      "charHeight": 15,
+      "location": {
+        "latitude": 0.00000000,
+        "longitude": 0.00000000,
+        "name": "",
+        "source": 0
+      },
+      "repeatedPlate": false,
+      "timeStamp": {
+        "Time": 1473670749,
+        "ms": 640,
+        "LocalTime": 1473677949
+      },
+      "timeSync": {
+        "timeMode": 0,
+        "lastSyncTime": 1473062065,
+        "lastSyncSource": "SNTP",
+        "lastSyncInfo": "192.53.103.108"
+      },
+      "confidence": 94,
+      "correctSpacing": true,
+      "countryCode": "UK",
+      "preferredCountry": true,
+      "preferredFormat": true,
+      "syntax": "1994-",
+      "direction": 126,
+      "motion": "towards",
+      "laneInfo": {
+        "ID": 1
+      },
+      "accessoryStatus": {
+        "12VOut": false,
+        "relayOut": false,
+        "input": true,
+        "12VSense": false
+      },
+      "frameTimeRef": 606284767,
+      "nightModeActive": false,
+      "frameHeight": 720,
+      "frameWidth": 1280,
+      "plateRect": {
+        "left": 401,
+        "top": 346,
+        "right": 520,
+        "bottom": 372
+      },
+      "zoomLocked": true,
+      "overviewSource": 2,
+      "overviewScale": 2,
+      "overviewRect": {
+        "left": 84,
+        "top": 0,
+        "right": 804,
+        "bottom": 576
+      },
+      "overviewPlateRect": {
+        "left": 300,
+        "top": 338,
+        "right": 420,
+        "bottom": 364
+      },
+      "plateTrack": [
+        {
+          "charHeight": 13,
+          "frameID": 12029973,
+          "platePos": {
+            "x": 275,
+            "y": 224
+          },
+          "plateWidth": 69
+        }
+      ],
+      "rawReads": [
+        {
+          "vrm": "AV11LPR",
+          "spacedVRM": "AV11 LPR"
+        }
+      ],
+      "speed": {
+        "radarSpeed": 0,
+        "radarSpeedUnits": "NoSpeed",
+        "radarRawSpeeds": [
+          {
+            "frameID": 12029973,
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      "radarDiags": "",
+      "plate": "xxxxxxxxxx",
+      "overview": "xxxxxxxxxx"
+    },
+    {
+      "safid": "gdjagxvxbj657hd",
+      "ref": 43989,
+      "vrm": "AV12LPR",
+      "frameID": 12029991,
+      "spacedVRM": "AV12 LPR",
+      "seenCount": 18,
+      "serialNo": 2568084344,
+      "MAC": "00:04:A3:4F:0D:79",
+      "cameraName": "Test_MAV_IQ",
+      "decodeID": 44606,
+      "charHeight": 15,
+      "location": {
+        "latitude": 0.00000000,
+        "longitude": 0.00000000,
+        "name": "",
+        "source": 0
+      },
+      "repeatedPlate": false,
+      "timeStamp": {
+        "Time": 1473670749,
+        "ms": 640,
+        "LocalTime": 1473677949
+      },
+      "timeSync": {
+        "timeMode": 0,
+        "lastSyncTime": 1473062065,
+        "lastSyncSource": "SNTP",
+        "lastSyncInfo": "192.53.103.108"
+      },
+      "confidence": 94,
+      "correctSpacing": true,
+      "countryCode": "UK",
+      "preferredCountry": true,
+      "preferredFormat": true,
+      "syntax": "1994-",
+      "direction": 10,
+      "motion": "towards",
+      "laneInfo": {
+        "ID": 1
+      },
+      "accessoryStatus": {
+        "12VOut": false,
+        "relayOut": false,
+        "input": true,
+        "12VSense": false
+      },
+      "frameTimeRef": 606284767,
+      "nightModeActive": false,
+      "frameHeight": 720,
+      "frameWidth": 1280,
+      "plateRect": {
+        "left": 401,
+        "top": 346,
+        "right": 520,
+        "bottom": 372
+      },
+      "zoomLocked": true,
+      "overviewSource": 2,
+      "overviewScale": 2,
+      "overviewRect": {
+        "left": 84,
+        "top": 0,
+        "right": 804,
+        "bottom": 576
+      },
+      "overviewPlateRect": {
+        "left": 300,
+        "top": 338,
+        "right": 420,
+        "bottom": 364
+      },
+      "plateTrack": [
+        {
+          "charHeight": 13,
+          "frameID": 12029973,
+          "platePos": {
+            "x": 275,
+            "y": 224
+          },
+          "plateWidth": 69
+        }
+      ],
+      "rawReads": [
+        {
+          "vrm": "AV12LPR",
+          "spacedVRM": "AV12 LPR"
+        }
+      ],
+      "speed": {
+        "radarSpeed": 0,
+        "radarSpeedUnits": "NoSpeed",
+        "radarRawSpeeds": [
+          {
+            "frameID": 12029973,
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      "radarDiags": "",
+      "plate": "xxxxxxxxxx",
+      "overview": "xxxxxxxxxx"
+    },
+    {
+      "safid": "gdjagxvxbj657hd",
+      "ref": 43988,
+      "vrm": "AV12LPR",
+      "frameID": 12029991,
+      "spacedVRM": "AV12 LPR",
+      "seenCount": 18,
+      "serialNo": 2568084344,
+      "MAC": "00:04:A3:4F:0D:79",
+      "cameraName": "Test_MAV_IQ",
+      "decodeID": 44606,
+      "charHeight": 15,
+      "location": {
+        "latitude": 0.00000000,
+        "longitude": 0.00000000,
+        "name": "",
+        "source": 0
+      },
+      "repeatedPlate": false,
+      "timeStamp": {
+        "Time": 1473670749,
+        "ms": 640,
+        "LocalTime": 1473677949
+      },
+      "timeSync": {
+        "timeMode": 0,
+        "lastSyncTime": 1473062065,
+        "lastSyncSource": "SNTP",
+        "lastSyncInfo": "192.53.103.108"
+      },
+      "confidence": 94,
+      "correctSpacing": true,
+      "countryCode": "UK",
+      "preferredCountry": true,
+      "preferredFormat": true,
+      "syntax": "1994-",
+      "direction": 0,
+      "motion": "towards",
+      "laneInfo": {
+        "ID": 1
+      },
+      "accessoryStatus": {
+        "12VOut": false,
+        "relayOut": false,
+        "input": true,
+        "12VSense": false
+      },
+      "frameTimeRef": 606284767,
+      "nightModeActive": false,
+      "frameHeight": 720,
+      "frameWidth": 1280,
+      "plateRect": {
+        "left": 401,
+        "top": 346,
+        "right": 520,
+        "bottom": 372
+      },
+      "zoomLocked": true,
+      "overviewSource": 2,
+      "overviewScale": 2,
+      "overviewRect": {
+        "left": 84,
+        "top": 0,
+        "right": 804,
+        "bottom": 576
+      },
+      "overviewPlateRect": {
+        "left": 300,
+        "top": 338,
+        "right": 420,
+        "bottom": 364
+      },
+      "plateTrack": [
+        {
+          "charHeight": 13,
+          "frameID": 12029973,
+          "platePos": {
+            "x": 275,
+            "y": 224
+          },
+          "plateWidth": 69
+        }
+      ],
+      "rawReads": [
+        {
+          "vrm": "AV12LPR",
+          "spacedVRM": "AV12 LPR"
+        }
+      ],
+      "speed": {
+        "radarSpeed": 0,
+        "radarSpeedUnits": "NoSpeed",
+        "radarRawSpeeds": [
+          {
+            "frameID": 12029973,
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      "radarDiags": "",
+      "plate": "xxxxxxxxxx",
+      "overview": "xxxxxxxxxx"
+    }
+  ]
+}
